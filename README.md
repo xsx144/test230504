@@ -1,3 +1,4 @@
+'''
 import openpyxl as vb
 from docx import Document # 导入docx
 from docx.enum.style import WD_STYLE_TYPE
@@ -243,4 +244,4 @@ for 行 in 服务质量.rows:
 
 print('over了')
 
-
+'''
